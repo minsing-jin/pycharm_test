@@ -17,3 +17,4 @@ if __name__ == '__main__':
 
 
 print("helloworld")
+print("왜 안되노")
